@@ -1,0 +1,653 @@
+fileFormatVersion: 2
+guid: 51fa1cffda43bc04a95c4a7b6aa7c139
+timeCreated: 1515749615
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box242
+    100002: Box243
+    100004: Box243 1
+    100006: Box245
+    100008: Box246
+    100010: Box247
+    100012: Box248
+    100014: Box249
+    100016: Box250
+    100018: Box251
+    100020: Box252
+    100022: Box253
+    100024: Box254
+    100026: Box255
+    100028: Box256
+    100030: Box257
+    100032: Box258
+    100034: Box259
+    100036: Box260
+    100038: Box261
+    100040: Box262
+    100042: Box263
+    100044: Box264
+    100046: Box267
+    100048: Cylinder274
+    100050: Cylinder274_MeshPart0
+    100052: Cylinder274_MeshPart1
+    100054: Cylinder275
+    100056: Cylinder276
+    100058: Cylinder277
+    100060: Cylinder278
+    100062: Cylinder280
+    100064: Cylinder282
+    100066: Cylinder284
+    100068: Cylinder285
+    100070: Cylinder286
+    100072: Cylinder287
+    100074: Cylinder288
+    100076: Cylinder289
+    100078: Cylinder291
+    100080: Cylinder292
+    100082: Cylinder298
+    100084: Cylinder298_MeshPart0
+    100086: Cylinder298_MeshPart1
+    100088: Cylinder300
+    100090: Cylinder302
+    100092: Cylinder305
+    100094: Hose007
+    100096: Line018
+    100098: Line021
+    100100: Sphere082
+    100102: Sphere083
+    100104: Sphere085
+    100106: Sphere088
+    100108: "\u53F3\u4FA7\u80A9\u8180"
+    100110: "\u53F3\u5927\u81C2"
+    100112: "\u53F3\u5C0F\u81C2"
+    100114: "\u53F3\u81C2\u4E2D\u90E8\u8F6C\u8F742"
+    100116: "\u53F3\u81C2\u4E2D\u90E8\u8F6C\u8F74\u96F6\u4EF61"
+    100118: "\u5934"
+    100120: "\u5BF9\u8C61481"
+    100122: "\u5BF9\u8C61482"
+    100124: "\u5BF9\u8C61482 1"
+    100126: "\u5BF9\u8C61483"
+    100128: "\u5BF9\u8C61485"
+    100130: "\u5BF9\u8C61486"
+    100132: "\u5BF9\u8C61487"
+    100134: "\u5BF9\u8C61488"
+    100136: "\u5BF9\u8C61489"
+    100138: "\u5BF9\u8C61490"
+    100140: "\u5BF9\u8C61492"
+    100142: "\u5BF9\u8C61493"
+    100144: "\u5BF9\u8C61494"
+    100146: "\u5BF9\u8C61495"
+    100148: "\u5BF9\u8C61496"
+    100150: "\u5BF9\u8C61497"
+    100152: "\u5BF9\u8C61497 1"
+    100154: "\u5BF9\u8C61498"
+    100156: "\u5BF9\u8C61499"
+    100158: "\u5BF9\u8C61500"
+    100160: "\u5BF9\u8C61501"
+    100162: "\u5BF9\u8C61502"
+    100164: "\u5BF9\u8C61503"
+    100166: "\u5BF9\u8C61503 1"
+    100168: "\u5BF9\u8C61504"
+    100170: "\u5BF9\u8C61504 1"
+    100172: "\u5BF9\u8C61505"
+    100174: "\u5BF9\u8C61505 1"
+    100176: "\u5BF9\u8C61506"
+    100178: "\u5BF9\u8C61506 1"
+    100180: "\u5BF9\u8C61507"
+    100182: "\u5BF9\u8C61507 1"
+    100184: "\u5BF9\u8C61508"
+    100186: "\u5BF9\u8C61508 1"
+    100188: "\u5BF9\u8C61509"
+    100190: "\u5BF9\u8C61510"
+    100192: "\u5BF9\u8C61510 1"
+    100194: "\u5BF9\u8C61511"
+    100196: "\u5BF9\u8C61511 1"
+    100198: "\u5BF9\u8C61512"
+    100200: "\u5BF9\u8C61512 1"
+    100202: "\u5BF9\u8C61513"
+    100204: "\u5BF9\u8C61513 1"
+    100206: "\u5BF9\u8C61514"
+    100208: "\u5BF9\u8C61514 1"
+    100210: "\u5BF9\u8C61515"
+    100212: "\u5BF9\u8C61515 1"
+    100214: "\u5BF9\u8C61516"
+    100216: "\u5BF9\u8C61517"
+    100218: "\u5BF9\u8C61520"
+    100220: "\u5BF9\u8C61521"
+    100222: "\u5BF9\u8C61524"
+    100224: "\u5BF9\u8C61525"
+    100226: "\u5BF9\u8C61530"
+    100228: "\u5BF9\u8C61533"
+    100230: "\u5BF9\u8C61540"
+    100232: "\u5BF9\u8C61540_MeshPart0"
+    100234: "\u5BF9\u8C61540_MeshPart1"
+    100236: "\u5BF9\u8C61541"
+    100238: "\u5DE6\u4FA7\u80A9\u8180"
+    100240: "\u5DE6\u5927\u81C2"
+    100242: "\u5DE6\u5C0F\u81C2"
+    100244: "\u5DE6\u624B"
+    100246: "\u5DE6\u81C2\u4E2D\u90E8\u96F6\u4EF61"
+    100248: "\u5DE6\u81C2\u4E2D\u90E8\u96F6\u4EF62"
+    100250: //RootNode
+    100252: "\u7535\u673A018"
+    100254: "\u7535\u673A019"
+    400000: Box242
+    400002: Box243
+    400004: Box243 1
+    400006: Box245
+    400008: Box246
+    400010: Box247
+    400012: Box248
+    400014: Box249
+    400016: Box250
+    400018: Box251
+    400020: Box252
+    400022: Box253
+    400024: Box254
+    400026: Box255
+    400028: Box256
+    400030: Box257
+    400032: Box258
+    400034: Box259
+    400036: Box260
+    400038: Box261
+    400040: Box262
+    400042: Box263
+    400044: Box264
+    400046: Box267
+    400048: Cylinder274
+    400050: Cylinder274_MeshPart0
+    400052: Cylinder274_MeshPart1
+    400054: Cylinder275
+    400056: Cylinder276
+    400058: Cylinder277
+    400060: Cylinder278
+    400062: Cylinder280
+    400064: Cylinder282
+    400066: Cylinder284
+    400068: Cylinder285
+    400070: Cylinder286
+    400072: Cylinder287
+    400074: Cylinder288
+    400076: Cylinder289
+    400078: Cylinder291
+    400080: Cylinder292
+    400082: Cylinder298
+    400084: Cylinder298_MeshPart0
+    400086: Cylinder298_MeshPart1
+    400088: Cylinder300
+    400090: Cylinder302
+    400092: Cylinder305
+    400094: Hose007
+    400096: Line018
+    400098: Line021
+    400100: Sphere082
+    400102: Sphere083
+    400104: Sphere085
+    400106: Sphere088
+    400108: "\u53F3\u4FA7\u80A9\u8180"
+    400110: "\u53F3\u5927\u81C2"
+    400112: "\u53F3\u5C0F\u81C2"
+    400114: "\u53F3\u81C2\u4E2D\u90E8\u8F6C\u8F742"
+    400116: "\u53F3\u81C2\u4E2D\u90E8\u8F6C\u8F74\u96F6\u4EF61"
+    400118: "\u5934"
+    400120: "\u5BF9\u8C61481"
+    400122: "\u5BF9\u8C61482"
+    400124: "\u5BF9\u8C61482 1"
+    400126: "\u5BF9\u8C61483"
+    400128: "\u5BF9\u8C61485"
+    400130: "\u5BF9\u8C61486"
+    400132: "\u5BF9\u8C61487"
+    400134: "\u5BF9\u8C61488"
+    400136: "\u5BF9\u8C61489"
+    400138: "\u5BF9\u8C61490"
+    400140: "\u5BF9\u8C61492"
+    400142: "\u5BF9\u8C61493"
+    400144: "\u5BF9\u8C61494"
+    400146: "\u5BF9\u8C61495"
+    400148: "\u5BF9\u8C61496"
+    400150: "\u5BF9\u8C61497"
+    400152: "\u5BF9\u8C61497 1"
+    400154: "\u5BF9\u8C61498"
+    400156: "\u5BF9\u8C61499"
+    400158: "\u5BF9\u8C61500"
+    400160: "\u5BF9\u8C61501"
+    400162: "\u5BF9\u8C61502"
+    400164: "\u5BF9\u8C61503"
+    400166: "\u5BF9\u8C61503 1"
+    400168: "\u5BF9\u8C61504"
+    400170: "\u5BF9\u8C61504 1"
+    400172: "\u5BF9\u8C61505"
+    400174: "\u5BF9\u8C61505 1"
+    400176: "\u5BF9\u8C61506"
+    400178: "\u5BF9\u8C61506 1"
+    400180: "\u5BF9\u8C61507"
+    400182: "\u5BF9\u8C61507 1"
+    400184: "\u5BF9\u8C61508"
+    400186: "\u5BF9\u8C61508 1"
+    400188: "\u5BF9\u8C61509"
+    400190: "\u5BF9\u8C61510"
+    400192: "\u5BF9\u8C61510 1"
+    400194: "\u5BF9\u8C61511"
+    400196: "\u5BF9\u8C61511 1"
+    400198: "\u5BF9\u8C61512"
+    400200: "\u5BF9\u8C61512 1"
+    400202: "\u5BF9\u8C61513"
+    400204: "\u5BF9\u8C61513 1"
+    400206: "\u5BF9\u8C61514"
+    400208: "\u5BF9\u8C61514 1"
+    400210: "\u5BF9\u8C61515"
+    400212: "\u5BF9\u8C61515 1"
+    400214: "\u5BF9\u8C61516"
+    400216: "\u5BF9\u8C61517"
+    400218: "\u5BF9\u8C61520"
+    400220: "\u5BF9\u8C61521"
+    400222: "\u5BF9\u8C61524"
+    400224: "\u5BF9\u8C61525"
+    400226: "\u5BF9\u8C61530"
+    400228: "\u5BF9\u8C61533"
+    400230: "\u5BF9\u8C61540"
+    400232: "\u5BF9\u8C61540_MeshPart0"
+    400234: "\u5BF9\u8C61540_MeshPart1"
+    400236: "\u5BF9\u8C61541"
+    400238: "\u5DE6\u4FA7\u80A9\u8180"
+    400240: "\u5DE6\u5927\u81C2"
+    400242: "\u5DE6\u5C0F\u81C2"
+    400244: "\u5DE6\u624B"
+    400246: "\u5DE6\u81C2\u4E2D\u90E8\u96F6\u4EF61"
+    400248: "\u5DE6\u81C2\u4E2D\u90E8\u96F6\u4EF62"
+    400250: //RootNode
+    400252: "\u7535\u673A018"
+    400254: "\u7535\u673A019"
+    2300000: Box242
+    2300002: Box243
+    2300004: Box243 1
+    2300006: Box245
+    2300008: Box246
+    2300010: Box247
+    2300012: Box248
+    2300014: Box249
+    2300016: Box250
+    2300018: Box251
+    2300020: Box252
+    2300022: Box253
+    2300024: Box254
+    2300026: Box255
+    2300028: Box256
+    2300030: Box257
+    2300032: Box258
+    2300034: Box259
+    2300036: Box260
+    2300038: Box261
+    2300040: Box262
+    2300042: Box263
+    2300044: Box264
+    2300046: Box267
+    2300048: Cylinder274_MeshPart0
+    2300050: Cylinder274_MeshPart1
+    2300052: Cylinder275
+    2300054: Cylinder276
+    2300056: Cylinder277
+    2300058: Cylinder278
+    2300060: Cylinder280
+    2300062: Cylinder282
+    2300064: Cylinder284
+    2300066: Cylinder285
+    2300068: Cylinder286
+    2300070: Cylinder287
+    2300072: Cylinder288
+    2300074: Cylinder289
+    2300076: Cylinder298_MeshPart0
+    2300078: Cylinder298_MeshPart1
+    2300080: Cylinder300
+    2300082: Cylinder302
+    2300084: Cylinder305
+    2300086: Hose007
+    2300088: Line018
+    2300090: Line021
+    2300092: Sphere082
+    2300094: Sphere083
+    2300096: Sphere085
+    2300098: Sphere088
+    2300100: "\u5BF9\u8C61481"
+    2300102: "\u5BF9\u8C61482"
+    2300104: "\u5BF9\u8C61482 1"
+    2300106: "\u5BF9\u8C61483"
+    2300108: "\u5BF9\u8C61485"
+    2300110: "\u5BF9\u8C61486"
+    2300112: "\u5BF9\u8C61487"
+    2300114: "\u5BF9\u8C61488"
+    2300116: "\u5BF9\u8C61489"
+    2300118: "\u5BF9\u8C61490"
+    2300120: "\u5BF9\u8C61492"
+    2300122: "\u5BF9\u8C61493"
+    2300124: "\u5BF9\u8C61494"
+    2300126: "\u5BF9\u8C61495"
+    2300128: "\u5BF9\u8C61496"
+    2300130: "\u5BF9\u8C61497"
+    2300132: "\u5BF9\u8C61497 1"
+    2300134: "\u5BF9\u8C61498"
+    2300136: "\u5BF9\u8C61499"
+    2300138: "\u5BF9\u8C61500"
+    2300140: "\u5BF9\u8C61501"
+    2300142: "\u5BF9\u8C61502"
+    2300144: "\u5BF9\u8C61503"
+    2300146: "\u5BF9\u8C61503 1"
+    2300148: "\u5BF9\u8C61504"
+    2300150: "\u5BF9\u8C61504 1"
+    2300152: "\u5BF9\u8C61505"
+    2300154: "\u5BF9\u8C61505 1"
+    2300156: "\u5BF9\u8C61506"
+    2300158: "\u5BF9\u8C61506 1"
+    2300160: "\u5BF9\u8C61507"
+    2300162: "\u5BF9\u8C61507 1"
+    2300164: "\u5BF9\u8C61508"
+    2300166: "\u5BF9\u8C61508 1"
+    2300168: "\u5BF9\u8C61509"
+    2300170: "\u5BF9\u8C61510"
+    2300172: "\u5BF9\u8C61510 1"
+    2300174: "\u5BF9\u8C61511"
+    2300176: "\u5BF9\u8C61511 1"
+    2300178: "\u5BF9\u8C61512"
+    2300180: "\u5BF9\u8C61512 1"
+    2300182: "\u5BF9\u8C61513"
+    2300184: "\u5BF9\u8C61513 1"
+    2300186: "\u5BF9\u8C61514"
+    2300188: "\u5BF9\u8C61514 1"
+    2300190: "\u5BF9\u8C61515"
+    2300192: "\u5BF9\u8C61515 1"
+    2300194: "\u5BF9\u8C61516"
+    2300196: "\u5BF9\u8C61517"
+    2300198: "\u5BF9\u8C61520"
+    2300200: "\u5BF9\u8C61521"
+    2300202: "\u5BF9\u8C61524"
+    2300204: "\u5BF9\u8C61525"
+    2300206: "\u5BF9\u8C61530"
+    2300208: "\u5BF9\u8C61533"
+    2300210: "\u5BF9\u8C61540_MeshPart0"
+    2300212: "\u5BF9\u8C61540_MeshPart1"
+    2300214: "\u5BF9\u8C61541"
+    3300000: Box242
+    3300002: Box243
+    3300004: Box243 1
+    3300006: Box245
+    3300008: Box246
+    3300010: Box247
+    3300012: Box248
+    3300014: Box249
+    3300016: Box250
+    3300018: Box251
+    3300020: Box252
+    3300022: Box253
+    3300024: Box254
+    3300026: Box255
+    3300028: Box256
+    3300030: Box257
+    3300032: Box258
+    3300034: Box259
+    3300036: Box260
+    3300038: Box261
+    3300040: Box262
+    3300042: Box263
+    3300044: Box264
+    3300046: Box267
+    3300048: Cylinder274_MeshPart0
+    3300050: Cylinder274_MeshPart1
+    3300052: Cylinder275
+    3300054: Cylinder276
+    3300056: Cylinder277
+    3300058: Cylinder278
+    3300060: Cylinder280
+    3300062: Cylinder282
+    3300064: Cylinder284
+    3300066: Cylinder285
+    3300068: Cylinder286
+    3300070: Cylinder287
+    3300072: Cylinder288
+    3300074: Cylinder289
+    3300076: Cylinder298_MeshPart0
+    3300078: Cylinder298_MeshPart1
+    3300080: Cylinder300
+    3300082: Cylinder302
+    3300084: Cylinder305
+    3300086: Hose007
+    3300088: Line018
+    3300090: Line021
+    3300092: Sphere082
+    3300094: Sphere083
+    3300096: Sphere085
+    3300098: Sphere088
+    3300100: "\u5BF9\u8C61481"
+    3300102: "\u5BF9\u8C61482"
+    3300104: "\u5BF9\u8C61482 1"
+    3300106: "\u5BF9\u8C61483"
+    3300108: "\u5BF9\u8C61485"
+    3300110: "\u5BF9\u8C61486"
+    3300112: "\u5BF9\u8C61487"
+    3300114: "\u5BF9\u8C61488"
+    3300116: "\u5BF9\u8C61489"
+    3300118: "\u5BF9\u8C61490"
+    3300120: "\u5BF9\u8C61492"
+    3300122: "\u5BF9\u8C61493"
+    3300124: "\u5BF9\u8C61494"
+    3300126: "\u5BF9\u8C61495"
+    3300128: "\u5BF9\u8C61496"
+    3300130: "\u5BF9\u8C61497"
+    3300132: "\u5BF9\u8C61497 1"
+    3300134: "\u5BF9\u8C61498"
+    3300136: "\u5BF9\u8C61499"
+    3300138: "\u5BF9\u8C61500"
+    3300140: "\u5BF9\u8C61501"
+    3300142: "\u5BF9\u8C61502"
+    3300144: "\u5BF9\u8C61503"
+    3300146: "\u5BF9\u8C61503 1"
+    3300148: "\u5BF9\u8C61504"
+    3300150: "\u5BF9\u8C61504 1"
+    3300152: "\u5BF9\u8C61505"
+    3300154: "\u5BF9\u8C61505 1"
+    3300156: "\u5BF9\u8C61506"
+    3300158: "\u5BF9\u8C61506 1"
+    3300160: "\u5BF9\u8C61507"
+    3300162: "\u5BF9\u8C61507 1"
+    3300164: "\u5BF9\u8C61508"
+    3300166: "\u5BF9\u8C61508 1"
+    3300168: "\u5BF9\u8C61509"
+    3300170: "\u5BF9\u8C61510"
+    3300172: "\u5BF9\u8C61510 1"
+    3300174: "\u5BF9\u8C61511"
+    3300176: "\u5BF9\u8C61511 1"
+    3300178: "\u5BF9\u8C61512"
+    3300180: "\u5BF9\u8C61512 1"
+    3300182: "\u5BF9\u8C61513"
+    3300184: "\u5BF9\u8C61513 1"
+    3300186: "\u5BF9\u8C61514"
+    3300188: "\u5BF9\u8C61514 1"
+    3300190: "\u5BF9\u8C61515"
+    3300192: "\u5BF9\u8C61515 1"
+    3300194: "\u5BF9\u8C61516"
+    3300196: "\u5BF9\u8C61517"
+    3300198: "\u5BF9\u8C61520"
+    3300200: "\u5BF9\u8C61521"
+    3300202: "\u5BF9\u8C61524"
+    3300204: "\u5BF9\u8C61525"
+    3300206: "\u5BF9\u8C61530"
+    3300208: "\u5BF9\u8C61533"
+    3300210: "\u5BF9\u8C61540_MeshPart0"
+    3300212: "\u5BF9\u8C61540_MeshPart1"
+    3300214: "\u5BF9\u8C61541"
+    4300000: Sphere083
+    4300002: "\u5BF9\u8C61481"
+    4300004: "\u5BF9\u8C61509"
+    4300006: Cylinder284
+    4300008: Cylinder285
+    4300010: Box267
+    4300012: Sphere088
+    4300014: "\u5BF9\u8C61524"
+    4300016: Cylinder305
+    4300018: Hose007
+    4300020: "\u5BF9\u8C61540_MeshPart0"
+    4300022: "\u5BF9\u8C61540_MeshPart1"
+    4300024: "\u5BF9\u8C61541"
+    4300026: "\u5BF9\u8C61487"
+    4300028: "\u5BF9\u8C61483"
+    4300030: "\u5BF9\u8C61485"
+    4300032: "\u5BF9\u8C61486"
+    4300034: "\u5BF9\u8C61499"
+    4300036: "\u5BF9\u8C61502"
+    4300038: "\u5BF9\u8C61498"
+    4300040: "\u5BF9\u8C61493"
+    4300042: "\u5BF9\u8C61495"
+    4300044: "\u5BF9\u8C61500"
+    4300046: "\u5BF9\u8C61489"
+    4300048: "\u5BF9\u8C61490"
+    4300050: "\u5BF9\u8C61492"
+    4300052: "\u5BF9\u8C61488"
+    4300054: Box242
+    4300056: Cylinder298_MeshPart0
+    4300058: Cylinder298_MeshPart1
+    4300060: Cylinder278
+    4300062: Sphere082
+    4300064: Line021
+    4300066: Box255
+    4300068: Cylinder287
+    4300070: Cylinder282
+    4300072: Cylinder276
+    4300074: "\u5BF9\u8C61496"
+    4300076: Cylinder280
+    4300078: "\u5BF9\u8C61494"
+    4300080: Box245
+    4300082: Box246
+    4300084: Box247
+    4300086: Box248
+    4300088: Box249
+    4300090: Box250
+    4300092: Box251
+    4300094: Box257
+    4300096: Box259
+    4300098: "\u5BF9\u8C61516"
+    4300100: Cylinder286
+    4300102: Sphere085
+    4300104: Cylinder274_MeshPart0
+    4300106: Cylinder274_MeshPart1
+    4300108: Cylinder275
+    4300110: Line018
+    4300112: "\u5BF9\u8C61517"
+    4300114: Box252
+    4300116: Box253
+    4300118: Box254
+    4300120: Box256
+    4300122: Box258
+    4300124: Box260
+    4300126: Box261
+    4300128: Box263
+    4300130: Box264
+    4300132: Cylinder289
+    4300134: Cylinder302
+    4300136: "\u5BF9\u8C61525"
+    4300138: "\u5BF9\u8C61530"
+    4300140: "\u5BF9\u8C61533"
+    4300142: "\u5BF9\u8C61520"
+    4300144: "\u5BF9\u8C61521"
+    4300146: Box262
+    4300148: Cylinder288
+    4300150: Cylinder300
+    4300152: Cylinder277
+    4300154: "\u5BF9\u8C61501"
+    4300156: "\u5BF9\u8C61482"
+    4300158: Box243
+    4300160: "\u5BF9\u8C61497"
+    4300162: "\u5BF9\u8C61505"
+    4300164: "\u5BF9\u8C61504"
+    4300166: "\u5BF9\u8C61503"
+    4300168: "\u5BF9\u8C61506"
+    4300170: "\u5BF9\u8C61515"
+    4300172: "\u5BF9\u8C61508"
+    4300174: "\u5BF9\u8C61507"
+    4300176: "\u5BF9\u8C61514"
+    4300178: "\u5BF9\u8C61513"
+    4300180: "\u5BF9\u8C61512"
+    4300182: "\u5BF9\u8C61511"
+    4300184: "\u5BF9\u8C61510"
+    4300186: "\u5BF9\u8C61482"
+    4300188: Box243
+    4300190: "\u5BF9\u8C61497"
+    4300192: "\u5BF9\u8C61505"
+    4300194: "\u5BF9\u8C61504"
+    4300196: "\u5BF9\u8C61503"
+    4300198: "\u5BF9\u8C61512"
+    4300200: "\u5BF9\u8C61508"
+    4300202: "\u5BF9\u8C61510"
+    4300204: "\u5BF9\u8C61507"
+    4300206: "\u5BF9\u8C61515"
+    4300208: "\u5BF9\u8C61514"
+    4300210: "\u5BF9\u8C61511"
+    4300212: "\u5BF9\u8C61513"
+    4300214: "\u5BF9\u8C61506"
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
